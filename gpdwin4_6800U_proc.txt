@@ -1,0 +1,52 @@
+/sys/class/dmi/id/bios_date:
+06/06/2023
+/sys/class/dmi/id/bios_release:
+5.24
+/sys/class/dmi/id/bios_vendor:
+American Megatrends International, LLC.
+/sys/class/dmi/id/bios_version:
+3.06
+/sys/class/dmi/id/board_asset_tag:
+Default string
+/sys/class/dmi/id/board_name:
+G1618-04
+/sys/class/dmi/id/board_serial:
+Default string
+/sys/class/dmi/id/board_vendor:
+GPD
+/sys/class/dmi/id/board_version:
+Default string
+/sys/class/dmi/id/chassis_asset_tag:
+Default string
+/sys/class/dmi/id/chassis_serial:
+Default string
+/sys/class/dmi/id/chassis_type:
+30
+/sys/class/dmi/id/chassis_vendor:
+Default string
+/sys/class/dmi/id/chassis_version:
+Default string
+/sys/class/dmi/id/ec_firmware_release:
+8.0
+/sys/class/dmi/id/modalias:
+dmi:bvnAmericanMegatrendsInternational,LLC.:bvr3.06:bd06/06/2023:br5.24:efr8.0:svnGPD:pnG1618-04:pvrDefaultstring:rvnGPD:rnG1618-04:rvrDefaultstring:cvnDefaultstring:ct30:cvrDefaultstring:skuDefaultstring:
+/sys/class/dmi/id/power:
+cat: /sys/class/dmi/id/power: On hakemisto
+/sys/class/dmi/id/product_family:
+Default string
+/sys/class/dmi/id/product_name:
+G1618-04
+/sys/class/dmi/id/product_serial:
+Default string
+/sys/class/dmi/id/product_sku:
+Default string
+/sys/class/dmi/id/product_uuid:
+03000200-0400-0500-0006-000700080009
+/sys/class/dmi/id/product_version:
+Default string
+/sys/class/dmi/id/subsystem:
+cat: /sys/class/dmi/id/subsystem: On hakemisto
+/sys/class/dmi/id/sys_vendor:
+GPD
+/sys/class/dmi/id/uevent:
+MODALIAS=dmi:bvnAmericanMegatrendsInternational,LLC.:bvr3.06:bd06/06/2023:br5.24:efr8.0:svnGPD:pnG1618-04:pvrDefaultstring:rvnGPD:rnG1618-04:rvrDefaultstring:cvnDefaultstring:ct30:cvrDefaultstring:skuDefaultstring:
